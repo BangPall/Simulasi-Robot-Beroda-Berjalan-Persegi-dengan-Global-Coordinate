@@ -1,0 +1,1 @@
+ros2 run ros_gz_bridge parameter_bridge '/model/robin/odometry@nav_msgs/msg/Odometry[gz.msgs.Odometry' --ros-args -r /model/robin/odometry:=/odom
